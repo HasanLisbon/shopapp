@@ -1,11 +1,14 @@
-#slider .carousel-item {
-    height: 500px;
-  }
-  
-  .carousel-caption {
-    font-size: 18px;
-  }
-  
-  .carousel-item>img {
-    width: 100%
-  }
+#carouselExampleIndicators{
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+
+.carousel-control-prev-icon ,.carousel-control-next-icon{
+   border: solid 2px black;
+   border-radius: 50%;
+}
+
+.carousel-inner{
+    height: 600px;
+}
