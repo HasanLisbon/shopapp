@@ -1,14 +1,14 @@
 #carouselExampleIndicators{
     margin-right: 10%;
     margin-left: 10%;
-    
+    margin-top: 2%;
+    border: slategrey 1px solid;
 }
 
-.carousel-control-prev-icon ,.carousel-control-next-icon{
-   border: solid 2px black;
-   border-radius: 50%;
+.carousel-item{
+    max-height: 400px;
 }
-
-.carousel-inner{
-    height: 600px;
+.carousel {
+    border-radius: 25px 25px 25px 25px;
+    overflow: hidden;
 }

@@ -1,3 +1,8 @@
 #brand{
     font-family: 'Liu Jian Mao Cao', cursive;
 }
+
+.nav-item{
+    margin-left: 30%;
+    margin-right:30%;
+}
