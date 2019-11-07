@@ -12,3 +12,7 @@
     border-radius: 25px 25px 25px 25px;
     overflow: hidden;
 }
+
+.card{
+    width:50%;
+}

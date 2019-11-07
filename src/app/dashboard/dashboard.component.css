@@ -1,3 +1,17 @@
 div .card-header{
     background-color: black;
 }
+
+#dashboard{
+    margin-top:5%;
+    margin-left: 10%;
+    margin-right:10%;
+    border-radius:40px 40px 40px 40px;
+}
+.card{
+    margin: 2rem;
+    border-radius: 25px 25px 25px 25px;
+}
+
+
+
